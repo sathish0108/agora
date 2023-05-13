@@ -1,4 +1,1 @@
 
-App id - 40f707001c5941cb9867a1aa2ebd5b2d
-channel name - test5
-token - 007eJxTYJh12nG/hyyb2qWdDVd+LT7rwGnEYxH5dMfro/L6PfuzT3IrMJgYpJkbmBsYGCabWpoYJidZWpiZJxomJhqlJqWYJhmlHI+KT2kIZGTwmizIwsgAgSA+K0NJanGJKQMDAEatHuU=
